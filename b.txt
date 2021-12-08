@@ -1,8 +1,1 @@
-<<<<<<< Updated upstream
-hello badd line 1
-add line 2
-=======
-hello b
-add line 1
-add line 2
->>>>>>> Stashed changes
+abs
